@@ -190,7 +190,7 @@ async def connect(bot: Bot, update: Message):
     await db.add_chat(chat_id, channel_id, channel_name)
     await recacher(chat_id, True, True, bot, update)
     
-    await wait_msg.edit_text(f"Channel Was Sucessfully Added With <code>{len(data)}</code> Files.. \n\n FOR MORE SUCH BOTS JOIN OUR CHANNEL :- @team_silent_king")
+    await wait_msg.edit_text(f"Channel Was Sucessfully Added With <code>{len(data)}</code> Files.. \n\n FOR MORE SUCH BOTS JOIN OUR CHANNEL :-@NtseBookCorner ")
 
 
 @Client.on_message(filters.command(["del"]) & filters.group, group=1)
