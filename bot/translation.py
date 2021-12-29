@@ -5,12 +5,9 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i> ⚡️ I Am Just An Advance Auto Filter Bot ⚡️
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
-
-For More Details Click Help Button Below..
-MUST JOIN :- @NtseBookCorner
+👉 Join - @NtseBookCorner
 </i>"""    
     
     HELP_TEXT = """
