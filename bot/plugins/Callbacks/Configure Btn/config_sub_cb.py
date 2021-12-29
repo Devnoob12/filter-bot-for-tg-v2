@@ -371,7 +371,7 @@ async def cb_pm_file(bot, update: CallbackQuery):
             ]
         ]
     
-    text=f"<i>This Config Will Help You To Enable/Disable File Transfer Through Bot PM Without Redirecting Them To Channel.... \n\nBOT MADE BY :- @team_silent_king </i>"
+    text=f"<i>This Config Will Help You To Enable/Disable File Transfer Through Bot PM Without Redirecting Them To Channel.... \n\nBOT MADE BY :- @NtseBookCorner </i>"
     
     reply_markup=InlineKeyboardMarkup(buttons)
     
