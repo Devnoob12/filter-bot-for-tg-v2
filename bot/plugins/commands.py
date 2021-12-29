@@ -50,7 +50,7 @@ async def start(bot, update):
         InlineKeyboardButton('Developers', url='https://t.me/NtseBookCorner'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/Devansh20055/filter-bot-for-tg-v2')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/ntse_contact_bot')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/ITS_NOT_ROMEO')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
