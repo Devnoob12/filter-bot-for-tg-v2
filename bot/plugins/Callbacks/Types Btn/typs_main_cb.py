@@ -206,7 +206,7 @@ async def cb_toggle(bot, update: CallbackQuery):
 
     
     text+="\n<i>Below Buttons Will Toggle Respective Media Types As Enabled Or Disabled....\n</i>"
-    text+="<i>This Will Take Into Action As Soon As You Change Them.... \n\n BOT POWERD BY :- @team_silent_king</i>"
+    text+="<i>This Will Take Into Action As Soon As You Change Them.... \n\n BOT POWERD BY :- @NtseBookCorner</i>"
     
     buttons.append([InlineKeyboardButton(f"Video Index : {v_e}", callback_data=vcb_data)])
     buttons.append([InlineKeyboardButton(f"Audio Index : {a_e}", callback_data=acb_data)])
