@@ -47,7 +47,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/team_silent_king'),
+        InlineKeyboardButton('Developers', url='https://t.me/NtseBookCorner'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/Devansh20055/filter-bot-for-tg-v2')
     ],[
         InlineKeyboardButton('Support 🛠', url='https://t.me/ITS_NOT_ROMEO')
